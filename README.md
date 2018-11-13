@@ -14,4 +14,4 @@ link para downloado do anaconda: https://www.anaconda.com/download/
 
 Os dados são disponibilizados pelo TSE no endereço: http://www.tse.jus.br/eleicoes/estatisticas/estatisticas-eleitorais
 
-Autor: Engels Souza
+engels.franca@gmail.com / @souza_engels
